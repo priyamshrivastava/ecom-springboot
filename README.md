@@ -74,6 +74,8 @@ cd ecom-springboot
 mvn spring-boot:run
 ```
 
+---
+
 📌 Purpose of This Project
 
 Practice backend development with Spring Boot
@@ -84,6 +86,7 @@ Demonstrate clean architecture and REST API design
 
 Suitable for internships, backend roles, and portfolio
 
+---
 
 🔮 Future Enhancements
 
